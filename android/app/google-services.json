@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "127342422658",
+    "project_id": "cab-service-a3030",
+    "storage_bucket": "cab-service-a3030.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127342422658:android:f663ca3641567fc47ba29b",
+        "android_client_info": {
+          "package_name": "com.example.cab_cris"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ4xB0VgIOlKJnpy6uSHxtiEo69dBuBhM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
